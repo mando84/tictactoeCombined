@@ -19,10 +19,10 @@
     "express": "^4.18.2",
     "express-async-handler": "^1.2.0",
     "jsonwebtoken": "^9.0.1",
-    "mongoose": "^7.3.2"
+    "mongoose": "^7.3.4"
   },
   "devDependencies": {
-    "concurrently": "^8.0.1",
+    "concurrently": "^8.2.0",
     "nodemon": "^2.0.22"
   }
 }
