@@ -40,7 +40,7 @@ h6 {
 }
 
 .App {
-  width: 920px;
+  width: 100vw;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -57,7 +57,7 @@ body {
   width: 500px;
   height: 500px;
   background-color: rgb(187, 239, 238);
-  border: 5px solid black;
+  border: 1px solid black;
   display: flex;
   flex-direction: column;
 }
