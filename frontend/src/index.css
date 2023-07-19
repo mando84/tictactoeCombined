@@ -39,6 +39,13 @@ h6 {
   color: #777;
 }
 
+.App {
+  width: 920px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 
 body {
