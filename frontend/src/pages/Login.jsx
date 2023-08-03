@@ -61,7 +61,7 @@ function Login() {
         <h1>
           <FaSignInAlt /> Login
         </h1>
-        <p>Login and start playing</p>
+        <p>Login and start playing TicTacToe</p>
       </section>
 
       <section className="form">
